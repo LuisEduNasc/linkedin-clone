@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "headline": "Software Engineer at Google",
+    "location": "Mountain View, CA",
+    "connections": 500,
+    "profilePicture": "https://gravatar.com/avatar/81e9dcc07842dc230d24cf27bcc47c0a?s=400&d=robohash&r=x",
+    "summary": "Passionate about web development and machine learning.",
+    "skills": ["Python", "React", "TensorFlow"],
+    "experience": [
+      {
+        "role": "Software Engineer",
+        "company": "Google",
+        "duration": "2018-present"
+      },
+      {
+        "role": "Junior Developer",
+        "company": "Startup XYZ",
+        "duration": "2016-2018"
+      }
+    ],
+    "education": [
+      {
+        "school": "MIT",
+        "degree": "B.S. in Computer Science",
+        "graduationYear": 2016
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "headline": "Product Manager at Amazon",
+    "location": "Seattle, WA",
+    "connections": 300,
+    "profilePicture": "https://gravatar.com/avatar/b42d781d64fb440a9d3d6217c99f8da6?s=400&d=robohash&r=x",
+    "summary": "Expert in product management and e-commerce.",
+    "skills": ["Product Management", "E-commerce", "Agile"],
+    "experience": [
+      {
+        "role": "Product Manager",
+        "company": "Amazon",
+        "duration": "2017-present"
+      },
+      {
+        "role": "Associate PM",
+        "company": "E-Shop",
+        "duration": "2015-2017"
+      }
+    ],
+    "education": [
+      {
+        "school": "Stanford University",
+        "degree": "MBA",
+        "graduationYear": 2015
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "firstName": "Emily",
+    "lastName": "Brown",
+    "headline": "Data Scientist at Facebook",
+    "location": "Menlo Park, CA",
+    "connections": 150,
+    "profilePicture": "https://gravatar.com/avatar/6a14529023abae4484e3a723df888369?s=400&d=robohash&r=x",
+    "summary": "Love working with data to solve real-world problems.",
+    "skills": ["Data Science", "R", "Machine Learning"],
+    "experience": [
+      {
+        "role": "Data Scientist",
+        "company": "Facebook",
+        "duration": "2019-present"
+      },
+      {
+        "role": "Data Analyst",
+        "company": "Analytics Co.",
+        "duration": "2017-2019"
+      }
+    ],
+    "education": [
+      {
+        "school": "Caltech",
+        "degree": "M.S. in Data Science",
+        "graduationYear": 2017
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "firstName": "Alice",
+    "lastName": "Wang",
+    "headline": "UX Designer at Adobe",
+    "location": "San Francisco, CA",
+    "connections": 200,
+    "profilePicture": "https://gravatar.com/avatar/example1?s=400&d=robohash&r=x",
+    "summary": "Dedicated to creating intuitive and beautiful user experiences.",
+    "skills": ["UX Design", "Sketch", "Figma"],
+    "experience": [
+      {
+        "role": "UX Designer",
+        "company": "Adobe",
+        "duration": "2020-present"
+      },
+      {
+        "role": "UI Designer",
+        "company": "Creative Studio",
+        "duration": "2018-2020"
+      }
+    ],
+    "education": [
+      {
+        "school": "RISD",
+        "degree": "B.A. in Design",
+        "graduationYear": 2018
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "headline": "DevOps Engineer at Netflix",
+    "location": "Los Gatos, CA",
+    "connections": 400,
+    "profilePicture": "https://gravatar.com/avatar/example2?s=400&d=robohash&r=x",
+    "summary": "Specialized in automation and cloud infrastructure.",
+    "skills": ["DevOps", "AWS", "Docker"],
+    "experience": [
+      {
+        "role": "DevOps Engineer",
+        "company": "Netflix",
+        "duration": "2019-present"
+      },
+      {
+        "role": "SysAdmin",
+        "company": "TechCorp",
+        "duration": "2016-2019"
+      }
+    ],
+    "education": [
+      {
+        "school": "Georgia Tech",
+        "degree": "B.S. in Computer Science",
+        "graduationYear": 2016
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "firstName": "Carol",
+    "lastName": "Kim",
+    "headline": "Digital Marketing Specialist at Spotify",
+    "location": "New York, NY",
+    "connections": 100,
+    "profilePicture": "https://gravatar.com/avatar/example3?s=400&d=robohash&r=x",
+    "summary": "Passionate about leveraging data to drive marketing strategies.",
+    "skills": ["Digital Marketing", "SEO", "Google Analytics"],
+    "experience": [
+      {
+        "role": "Digital Marketing Specialist",
+        "company": "Spotify",
+        "duration": "2018-present"
+      },
+      {
+        "role": "Marketing Assistant",
+        "company": "Startup ABC",
+        "duration": "2016-2018"
+      }
+    ],
+    "education": [
+      {
+        "school": "NYU",
+        "degree": "B.A. in Business",
+        "graduationYear": 2016
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "firstName": "Dave",
+    "lastName": "Williams",
+    "headline": "Financial Analyst at Goldman Sachs",
+    "location": "New York, NY",
+    "connections": 350,
+    "profilePicture": "https://gravatar.com/avatar/example4?s=400&d=robohash&r=x",
+    "summary": "Skilled in financial modeling and risk assessment.",
+    "skills": ["Financial Analysis", "Excel", "Data Visualization"],
+    "experience": [
+      {
+        "role": "Financial Analyst",
+        "company": "Goldman Sachs",
+        "duration": "2020-present"
+      },
+      {
+        "role": "Accountant",
+        "company": "PwC",
+        "duration": "2018-2020"
+      }
+    ],
+    "education": [
+      {
+        "school": "Wharton School of Business",
+        "degree": "MBA",
+        "graduationYear": 2018
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "firstName": "Eva",
+    "lastName": "Martinez",
+    "headline": "HR Manager at Salesforce",
+    "location": "San Francisco, CA",
+    "connections": 250,
+    "profilePicture": "https://gravatar.com/avatar/example5?s=400&d=robohash&r=x",
+    "summary": "Focused on creating an inclusive and productive work environment.",
+    "skills": ["HR Management", "Recruitment", "Employee Relations"],
+    "experience": [
+      {
+        "role": "HR Manager",
+        "company": "Salesforce",
+        "duration": "2019-present"
+      },
+      {
+        "role": "HR Associate",
+        "company": "HR Solutions",
+        "duration": "2017-2019"
+      }
+    ],
+    "education": [
+      {
+        "school": "UCLA",
+        "degree": "M.S. in Human Resources",
+        "graduationYear": 2017
+      }
+    ]
+  }
+]
